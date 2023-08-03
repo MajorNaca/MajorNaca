@@ -10,7 +10,7 @@
 
 body {
     min-height: 100vh;
-    background-color: rgba(0, 0, 0, 0.6)  center / cover;
+    background-color: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fvetor-gratis%2Ffundo-preto&psig=AOvVaw3QmGnVZ_80AxMfDFl5Jw5c&ust=1691157678451000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi1qrnTwIADFQAAAAAdAAAAABAThttps://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fvetor-gratis%2Ffundo-preto&psig=AOvVaw3QmGnVZ_80AxMfDFl5Jw5c&ust=1691157678451000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi1qrnTwIADFQAAAAAdAAAAABAT")  center / cover;
     display: flex;
     justify-content: center;
     align-items: center;
